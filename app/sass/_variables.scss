@@ -1,0 +1,57 @@
+:root{
+    /* COLORS */
+        /* BACKGROUNDS */
+        --clr-bg-dark: #213F36;
+        --clr-bg-light: #E7E8E6;
+        --clr-bg-black: #000000;
+
+        /* TEXT (note: dm = dark mode / lm = light mode*/
+        --clr-text-light: #c7fcbf;
+        --clr-text-caption: #acf1a1;
+        --clr-text-white: #ffffff;
+        --clr-text-white-alt:#e0fadc;
+        --clr-text-dark: #355342;
+        --clr-text-black: #000000;
+
+        /* BUTTONS */
+        --clr-btn-primary: #375739;
+        --clr-btn-disabled: #B7EAAF;
+        --clr-btn-destructive: #ED2C27;
+        --clr-btn-destructive-disabled: #F87C68;
+
+        /* GRADIENTS */
+        --clr-gradient: linear-gradient(90deg, rgba(127,202,33,1) 0%, rgba(16,82,0,1) 77%);
+
+        /* MENU */
+        --clr-bar: #D2FFCB;
+
+    /* TYPOGRAPHY */
+
+        /* FONTS */
+        --font: 'Roboto', sans-serif;
+
+        /* TITLES */
+        --fs-h1: 3em;
+        --fs-h2: 3.75em;
+        --fs-h3: 1.875em;
+        --fs-h4: 1.5em;
+
+        /* BODY TEXT */
+        --fs-btn: 1.5em;
+        --fs-text-normal: 1.25em;
+        --fs-text-caption: 1.125em;
+        --fs-text-gardener: 1em;
+
+    /* SHADOWS */
+        /* BUTTONS */
+        --shadow-btn-normal: 10% 20% 15%;
+        --shadow-btn-hover: 20% 40% 30%; /*box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.25);
+
+        /* CARDS */
+        --shadow-card-normal: 30% 60% 30%;
+        --shadow-card-hover: 15% 30% 15%;  /*filter: drop-shadow(0px 17px 34px rgba(0, 0, 0, 0.15));
+
+    /* PADDING */
+    --pd-btn: 1rem 2rem;
+    --pd-card: 1.5rem;
+}
