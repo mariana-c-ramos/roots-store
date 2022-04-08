@@ -1,8 +1,8 @@
-# Roots | Online Store with HTML, Sass/CSS adn JavaScript
+# Roots | Online Store with HTML, Sass/CSS and JavaScript
 
 ## Table of contents
 
-- [Roots | Online Store with HTML, Sass/CSS adn JavaScript](#roots--online-store--with--html--sass/css--and--javascript)
+- [Roots | Online Store with HTML, Sass/CSS and JavaScript](#roots--online-store--with--html--sass/css--and--javascript)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshots of the Project](#screenshots-of-the-project)
